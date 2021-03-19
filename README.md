@@ -1,2 +1,2 @@
-# truong
+# Anh Truong
 Machine Learning
